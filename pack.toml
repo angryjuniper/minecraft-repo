@@ -1,0 +1,12 @@
+name = "AngryJuniper Cloud Modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9e5b2e370438ee96a5458344d031d3def5f00ec1d5e348552a4bdb03008deeb2"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

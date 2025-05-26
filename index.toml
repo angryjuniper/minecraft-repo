@@ -1,0 +1,129 @@
+hash-format = "sha256"
+
+[[files]]
+file = "dungeon-crawling-and-creation.pw.toml"
+hash = "3d6d10fc75e16e3b8fcf16dd0b80dc982fee5f7da623e16b328307962244cced"
+metafile = true
+
+[[files]]
+file = "manifest.json"
+hash = "38a158f98c55e53c7300102e2147f3bd5057360e81e25ecc5924b688ebeed6c2"
+
+[[files]]
+file = "mods/adorn-for-forge.pw.toml"
+hash = "479cc3140466aec890ad8c9073dcf0d6dbe1f5cad8e8f35f3d650ec2c49a367b"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "84c4b7a5345637f1653938542b08cfd99b52932daf36d7d89420cb77d786a395"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-and-create.pw.toml"
+hash = "d10bf5944d692a18e4ccf95a4e206d519e00dcaa032dbe0b46adb137127e1a67"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
+file = "mods/durability-viewer-forge-neoforge.pw.toml"
+hash = "2806dfcd4af9369f82fb602432f388b00d9fb4eb165ec32e427a0d53d253be4b"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-pipez-fix.pw.toml"
+hash = "78c76a8bd845e1e58f652fe80a275a74fff02ad4144fb3b6c7dc64e83e5783a7"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-art.pw.toml"
+hash = "b5052ae1eff66b2573e4fcbe4272ae5ec0e574147422a2eefd88a30777b07637"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "de10d0cf7c0dee792f2a551143b6eba59b6992de85d7df06febb07c7e0f1a6b8"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-cookery.pw.toml"
+hash = "2922e1925edde2ddd1d361fb777f29cd62c200cc5483692008d454a105c18aed"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-lights.pw.toml"
+hash = "692236421deb64f7a4cfda2c5da0c42a1a438a7594cf4d1c45c4955cf65b9a8c"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-science.pw.toml"
+hash = "7f645f5b19b65f0af75ada8397b19017e16065c0a77c0c48e0fe54eac5f732d2"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "17c942a8654025bde22ffb51826ba59115c0928d0c9cbcd2470ae7b526b7d13b"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "528bbe2b245807347801b56b913684d245ec92fd89dd281595fe2250be7fa618"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "nightlights.pw.toml"
+hash = "15ee594914c6c08a47d52fd772672c3546900b6070d3869ee23001e7231ef4e6"
+metafile = true
+
+[[files]]
+file = "scripts/update-mods.sh"
+hash = "6104f6533b60e2f7554890bd9427291863897ccf7d5cec43c267da3cc0c20ec8"
+
+[[files]]
+file = "tinkers-immersiveengineering.pw.toml"
+hash = "30384ba18ad87d1e7cda849bed01a1f1752510feca9fdb51389cadb869568176"
+metafile = true
