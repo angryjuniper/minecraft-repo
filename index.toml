@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".sync-mods.sh.swp"
+hash = "2c5aaa0e46c702a044f1b30e1d3d538e84352f8d15886b2816b9d0d4e1a59e4b"
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "479cc3140466aec890ad8c9073dcf0d6dbe1f5cad8e8f35f3d650ec2c49a367b"
 metafile = true
